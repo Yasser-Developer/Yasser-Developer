@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Yasser 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif" width="60" height="60" alt="coding" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub%20Profile!&fontSize=30&animation=fadeIn&fontColor=fff" alt="Header" />
 </p>
+
 <p align="center">
   A passionate developer eager to learn Python and Django, specializing in building scalable websites with an optimized user experience. Currently, I'm focused on developing my personal website and online portfolio to showcase my work.
 </p>
@@ -12,8 +13,8 @@
 ### 🛠️ Skills & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,git,vscode,linux,postgresql" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,git,vscode,linux,postgresql" alt="Skills" />
+</p>
 
 ---
 
@@ -26,7 +27,6 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasser-Developer&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Yasser's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=Yasser-Developer&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Yasser's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasser-Developer&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
