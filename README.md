@@ -1,30 +1,44 @@
 <h1 align="center">Hi there, I'm Yasser 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20GitHub%20Profile!&fontSize=30&animation=fadeIn&fontColor=fff" alt="Header" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=F7DF1E&width=435&lines=Welcome+to+my+Github+Profile!;Python+%2F+Django+Developer;Building+scalable+web+solutions;"
+    alt="Typing SVG"
+  />
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Yasser-Developer/count.svg" alt="Profile views" />
-</p>
+---
 
-<p align="center">
-  A passionate developer eager to learn Python and Django, specializing in building scalable websites with an optimized user experience. Currently, I'm focused on developing my personal website and online portfolio to showcase my work.
-</p>
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **my personal portfolio website**.
+- 🌱 I’m currently learning **advanced Django REST Framework concepts and Docker**.
+- 👯 I’m looking to collaborate on **open-source web development projects**.
+- 🤔 I’m looking for help with **designing beautiful UIs for my Django projects**.
+- 💬 Ask me about **Python, Django, or web development in general**.
+- 📫 How to reach me: via **Telegram** or **LinkedIn**.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy solving puzzles and automating tasks.
 
 ---
 
 ### 🛠️ Skills & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,git,vscode,linux,postgresql" alt="Skills" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,git,vscode,linux,postgresql" />
+  </p>
 
 ---
 
 ### ✨ Featured Projects
 
-**Currently, I'm working on my personal website and portfolio, which will be featured here soon!**
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif" alt="Coding" width="100"/>
+  <br/>
+  My coding journey is ongoing! Stay tuned for exciting projects featuring **Python** & **Django**.
+  <br/>
+  Currently, I'm focused on developing my **personal portfolio website**, which will be showcased here soon!
+</p>
 
 ---
 
@@ -42,4 +56,14 @@
 
 ### 📬 Let's Connect
 
-* **Telegram:** [@yasernet72](https://t.me/yasernet72)
+<p align="left">
+  <a href="https://t.me/yasernet72" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=telegram" width="40" height="40" alt="Telegram"/></a>
+  </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yasser-Developer&label=Profile%20Views&color=0e75b6&style=flat" alt="Yasser-Developer profile views" />
+</p>
+
+<p align="center">Made with ❤️ by Yasser Teimouri</p>
