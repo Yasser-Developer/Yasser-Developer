@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://profile-counter.glitch.me/Yasser-Developer/count.svg" alt="Profile views" />
+</p>
+
+<p align="center">
   A passionate developer eager to learn Python and Django, specializing in building scalable websites with an optimized user experience. Currently, I'm focused on developing my personal website and online portfolio to showcase my work.
 </p>
 
