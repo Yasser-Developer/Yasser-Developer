@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, I'm Yasser 👋</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&pause=1000&color=F7DF1E&width=435&lines=Welcome+to+my+Github+Profile!;Python+%2F+Django+Developer;Building+scalable+web+solutions;"
-    alt="Typing SVG"
-  />
+  A passionate developer eager to learn Python and Django, specializing in building scalable websites with an optimized user experience. Currently, I'm focused on developing my personal website and online portfolio to showcase my work.
 </p>
 
 ---
@@ -65,5 +62,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yasser-Developer&label=Profile%20Views&color=0e75b6&style=flat" alt="Yasser-Developer profile views" />
 </p>
-
-<p align="center">Made with ❤️ by Yasser Teimouri</p>
