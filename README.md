@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I'm Yasser Teimouri 👋</h1>
 
 <div align="center">
   <h1>
