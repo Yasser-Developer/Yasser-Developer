@@ -1,8 +1,13 @@
 <h1 align="center">Hi there, I'm Yasser 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif" width="60" height="60" alt="coding" />
-</p>
+<div align="center">
+  <h1>
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Yasser;This+is..;..my+Github..;"
+      alt="Typing SVG"
+    />
+  </h1>
+</div>
 
 ---
 
