@@ -58,9 +58,7 @@
 
 ### 📬 Let's Connect
 
-<p align="left">
-  <a href="https://t.me/yasernet72" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=telegram" width="40" height="40" alt="Telegram"/></a>
-  </p>
+* **Telegram:** [@yasernet72](https://t.me/yasernet72)
 
 ---
 
