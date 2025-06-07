@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yasser 👋</h1>
 
 <p align="center">
-  A passionate developer eager to learn Python and Django, specializing in building scalable websites with an optimized user experience. Currently, I'm focused on developing my personal website and online portfolio to showcase my work.
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFWlHO/giphy.gif" width="60" height="60" alt="coding" />
 </p>
 
 ---
