@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on **open-source web development projects**.
 - 🤔 I’m looking for help with **designing beautiful UIs for my Django projects**.
 - 💬 Ask me about **Python, Django, or web development in general**.
-- 📫 How to reach me: via **Telegram** or **LinkedIn**.
+- 📫 How to reach me: via **Telegram**.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy solving puzzles and automating tasks.
 
